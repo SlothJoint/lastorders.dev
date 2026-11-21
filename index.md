@@ -8,6 +8,9 @@ Last Orders is a diary of the pubs that you visit. Your diary stays on your phon
 
 Last Orders is for adults only.
 
+- [Privacy policy](privacy)
+- [Terms of use](terms)
+
 ## Contact
 
 Email privacy@lastorders.email.

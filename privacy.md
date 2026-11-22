@@ -4,7 +4,7 @@ title: Privacy policy
 
 # Last Orders privacy policy
 
-Last changed: 21 November 2026
+Last changed: 22 November 2026
 
 Last Orders is a diary of the pubs that you visit. Your diary stays on your phone. You have no account, and we can't see your check-ins, drinks or photos. This policy tells you what the app keeps, what leaves your phone, and what your rights are.
 
@@ -45,6 +45,7 @@ Before the app keeps a photo, it makes a new copy of it. The copy has no hidden 
 | What | Where it goes | When |
 |---|---|---|
 | Your phone's internet address and the area of the map that you look at | OpenFreeMap, which sends the map pictures | When you look at a map |
+| Your phone's internet address | GitHub, which runs lastorders.dev | Once a week at most, on Wi-Fi, when the app asks for a newer pub list |
 | A picture of a crawl | The app that you choose in your phone's share menu | Only when you share a crawl |
 | Your diary, without photos | Your own Google account (Android backup) | When backup is on in your phone's settings |
 | A file with your diary | The place that you choose in your phone's share menu | Only when you tap "Export my diary" |

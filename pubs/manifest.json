@@ -1,9 +1,9 @@
 {
   "format": 1,
-  "built_at": "2026-11-20T21:27:04.361Z",
-  "pubs": 45665,
+  "built_at": "2026-11-22T18:45:57.944Z",
+  "pubs": 45662,
   "url": "https://lastorders.dev/pubs/pubs.db",
   "bytes": 6840320,
-  "sha256": "13b3f4eebe8f2e9a2599795cf3a4a9b5cbfdff25c06c518dc1383eccf75ebcfb",
+  "sha256": "b14404e3a6d4c8b452af3fc0087ea66f6709c7dfdfc1a455eb1b3c9b5211bb8a",
   "credit": "© OpenStreetMap contributors, ODbL"
 }

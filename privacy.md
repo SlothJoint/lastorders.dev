@@ -23,6 +23,7 @@ Nothing. We don't run a server for the app, and we receive no data about you or 
 | Data | Why |
 |---|---|
 | Your check-ins: the pub, the time that you arrived and left | This is your diary. |
+| The route that you walked between pubs, if you turn on "Record my route between pubs" | To show the streets that you walked on your crawl card, and the distance. |
 | Your drinks, snacks, captions and photos | So that you can see your visits. |
 | The names and card stats of your nights | To show your crawl cards the way that you chose. |
 | Your settings: theme, crawl cards, automatic check-in | To give you the app the way that you chose. |
@@ -34,6 +35,7 @@ When you delete the app, your phone deletes all of this. You can also delete one
 ## Your location
 
 - **Pubs near you and checking in.** The app uses your phone's location only on your phone. It finds pubs in the pub list, and makes sure that you are within 50 m of the pub. The app doesn't keep your location, and it doesn't send it anywhere.
+- **Your route between pubs.** "Record my route between pubs" is off until you turn it on. When it is on, the app records your location after each check-in, and your phone shows a notification while it records. The app keeps only your walks between two pubs of one night. It deletes the rest, such as your walk home. The route stays on your phone. A picture that you share shows the route only if you turn on "Show the route that I walked".
 - **Automatic check-in.** "Suggest check-ins" and "Leave pubs automatically" are off until you turn them on. When one is on, your phone watches circles round the pubs near you, also when the app isn't open. Your phone needs to allow location "all the time" for this. Your location stays on your phone.
 
 ## Photos

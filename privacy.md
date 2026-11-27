@@ -24,7 +24,7 @@ Nothing. We don't run a server for the app, and we receive no data about you or 
 |---|---|
 | Your check-ins: the pub, the time that you arrived and left | This is your diary. |
 | The route that you walked between pubs, if you turn on "Record my route between pubs" | To show the streets that you walked on your crawl card, and the distance. |
-| Your drinks, snacks, captions and photos | So that you can see your visits. |
+| Your drinks, food, captions and photos | So that you can see your visits. |
 | The names and card stats of your nights | To show your crawl cards the way that you chose. |
 | Your settings: theme, crawl cards, automatic check-in | To give you the app the way that you chose. |
 | Your answer to "Are you 18 or over?" | So that the app asks only once. |
